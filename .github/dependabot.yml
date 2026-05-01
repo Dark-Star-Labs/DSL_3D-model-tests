@@ -6,3 +6,8 @@ updates:
       interval: "weekly"
     assignees:
       - "darkstarlabs-accounts"
+    grouping:
+      update-types:
+        - "major"
+        - "minor"
+        - "patch"
